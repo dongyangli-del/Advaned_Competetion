@@ -1,6 +1,3 @@
-# Advanced_Competetion
-2021Robert Competetion
-
 
 # 编写目的
 本文档是郑州大学秃头宝贝队3D识别和工业测量参赛项目的软件说明手册，用于介绍软件使用方法。
@@ -12,7 +9,7 @@ Pytorch-gpu v1.7
 Pyrealsense2 2.41.0
 
 # 目录结构描述
-.
+
 ├── best.engine
 ├── best.wts
 ├── build
