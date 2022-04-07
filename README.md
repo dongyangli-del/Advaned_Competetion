@@ -12,7 +12,6 @@
   * [1.6 结果文件生成](#16-------)
   * [1.7 软件退出](#17-----)
 
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 
 
